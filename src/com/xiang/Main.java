@@ -14,5 +14,6 @@ public class Main {
         System.out.println("第三次提交 并创建分支");
         System.out.println("分支修改  第一次提交");
         System.out.println("分支修改，并未合并代码，第二次提交");
+        System.out.println("分支修改，并未合并代码，第二次提交 并且创建了一个新的类 Fen");
     }
 }
