@@ -15,5 +15,8 @@ public class Main {
         System.out.println("分支修改  第一次提交");
         System.out.println("分支修改，并未合并代码，第二次提交");
         System.out.println("分支修改，并未合并代码，第二次提交 并且创建了一个新的类 Fen");
+        System.out.println("主干进行修改 进行第一次提交");
+        System.out.println("主干进行修改 进行第二次提交");
+        System.out.println("=== 主干进行第三次修改 并且创建了一个类 Zhu");
     }
 }
